@@ -1,0 +1,23 @@
+ROV VIDEO ANALYSIS
+=======================================================
+Total Decisions: 928
+Decision Quality: 55.6%
+Average Speed: 2.43 units/frame
+Yellow Target Efficiency: 26.1%
+Circles Detected: 828
+Avg Direction Change: 7.8°/frame
+
+DECISION BREAKDOWN:
+--------------------
+  cruise: 214 (23.1%)
+  stop: 14 (1.5%)
+  navigate: 311 (33.5%)
+  move: 147 (15.8%)
+  approach_yellow: 242 (26.1%)
+
+ORIENTATION ANALYSIS :
+---------------------------------------------
+  Average Yaw: -8.3°
+  Yaw Range: -109.2° to 75.2°
+  Avg Yaw Change: 7.8°/frame
+  Orientation Stability: Medium
